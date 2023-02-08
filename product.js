@@ -1,6 +1,6 @@
 var productS = [{
     id: 'SP1',
-    name: 'Áo dài thêu họa tiết 11',
+    name: 'Áo dài thêu họa tiết 111',
     img: 'https://quyennguyen.vn/wp-content/uploads/2020/11/ao-dai-ban-san-dep-nhat-ho-chi-minh-2.jpg',
     price: 122000,
 },
